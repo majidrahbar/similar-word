@@ -1,1 +1,1 @@
-# similar_word
+# similar-word
